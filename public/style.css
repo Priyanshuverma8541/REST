@@ -1,0 +1,12 @@
+body{
+    background-color: aqua
+}
+.post{
+    background-color: rgb(182, 153, 158);
+}
+.quora{
+    color: maroon;
+}
+.username{
+    font-style: italic;
+}
